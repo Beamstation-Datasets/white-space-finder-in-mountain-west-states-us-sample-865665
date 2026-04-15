@@ -1,0 +1,22 @@
+{
+  "base_price": 2495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "expansion",
+  "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in the Mountain West US (CO, UT, MT, WY) that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
+  "config_name": "White Space Finder in Mountain West States, US",
+  "export_job_id": "8cf47889-a90a-47b2-94b2-d35abecbf5d3",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 865665,
+  "location_name": "Mountain West States",
+  "location_type": "region",
+  "repo_name": "white-space-finder-in-mountain-west-states-us-sample-865665",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/865665/beamstation_865665_food_and_drink-xx-all_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 6,
+  "sample_sha256": "5f83a0097ae276c3ddae176635b9936187817903a9ff261ae89e51d987d84173",
+  "sample_size_bytes": 40368,
+  "total_records": 60,
+  "updated_at": "2026-04-09T17:25:14.428903+00:00"
+}
