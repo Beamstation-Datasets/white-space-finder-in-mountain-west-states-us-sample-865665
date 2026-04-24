@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f642126e-0707-4d25-bb51-60cc5798b9b8",
+  "export_job_id": "22fd7bfa-74ce-4ecb-8e98-e6ca633e61e8",
   "id_short": 865665,
-  "published_at": "2026-04-19T19:41:22Z",
+  "published_at": "2026-04-24T07:03:09Z",
   "repo_name": "white-space-finder-in-mountain-west-states-us-sample-865665",
   "sample_asset_name": "beamstation_865665_food_and_drink-xx-all_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/865665/beamstation_865665_food_and_drink-xx-all_SAMPLE_DIST.csv",
-  "sample_records": 5,
-  "sample_sha256": "68768f3c987b2cfdb1199a6bce356c6448370c4bfbc893e9d208969fca0a8a96",
-  "sample_size_bytes": 36330,
-  "total_records": 55
+  "sample_records": 4,
+  "sample_sha256": "ee8b94a36c2d8903bc6b85401b4b01e4da771ea63ccf81ac57b5cfab8807aaa8",
+  "sample_size_bytes": 29498,
+  "total_records": 45
 }
